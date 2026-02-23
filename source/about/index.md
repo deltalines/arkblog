@@ -15,8 +15,8 @@ date: 2026-02-04
 
 如果你想联系我，可以通过以下方式：
 
-- GitHub: [https://github.com/yourname](https://github.com/yourname)
-- Email: your.email@example.com
+- GitHub: [https://github.com/deltalines/](https://github.com/deltalines/)
+- Email: lapplandsalluzo@163.com
 
 ## 友情链接
 

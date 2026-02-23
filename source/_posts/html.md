@@ -1,7 +1,8 @@
 ---
 title: html
 date: 2026-02-08 22:58:29
-tags: web
+tags: web前端
+category: 文档
 ---
 # HTML 基础语法指南
 
